@@ -22,6 +22,7 @@ public class AddressBook {
 		}
 	}
 	
+	//This is the main
 	public static void main(String[] args){
 		BuddyInfo b = new BuddyInfo("Bolt", "123 abc", "234");
 		AddressBook addressBook = new AddressBook();
